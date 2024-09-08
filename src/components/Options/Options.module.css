@@ -1,0 +1,12 @@
+.option {
+  display: flex;
+  gap: 10px;
+}
+
+.option button {
+  background-color: darkgray;
+}
+
+button:hover {
+  box-shadow: 2px;
+}
